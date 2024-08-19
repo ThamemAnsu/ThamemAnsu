@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thamem Ansari... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Thamem Ansari... and I'm a Full Stack Developer, from Why Tap Global</h2>
 
 ###
 
