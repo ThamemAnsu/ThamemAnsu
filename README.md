@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Thamem Ansari</h2>
 <h3 align="left">A Full Stack Developer at Why Tap Global</h3>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
 
 ---
 
